@@ -1,0 +1,1 @@
+This GitHub repository contains my ServiceNow source control activity, where I created and linked the Wish List application to a GitHub repository to manage versioning and collaboration through Studio.
